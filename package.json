@@ -1,0 +1,11 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "main": "bookstore.js",
+  "scripts": {
+    "start": "node bookstore.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.18.0"
+  }
+}
